@@ -1,7 +1,5 @@
 # Bank-Loan-Analysis
 
-## Loan Data Analysis and Visualization Project
-
 ### Introduction
 This project is a comprehensive analysis and visualization of loan data using MS SQL Server and Power BI. The objective is to derive key performance indicators (KPIs) and other essential insights from the loan data, and then visualize these insights using Power BI.
 
@@ -75,9 +73,9 @@ Subsequently, the data was imported into Power BI for visualization. Using Power
 - **MoM Analysis:** Month-Over-Month analysis of key metrics.
 
 ### Output Dashboard:-
+![Screenshot 2024-07-09 174858](https://github.com/KhushilBhimani2004/Bank-Loan-Analysis/assets/69694471/52078714-abad-4634-9f47-47d5f54f3a7f)
 ![Screenshot 2024-07-09 174929](https://github.com/KhushilBhimani2004/Bank-Loan-Analysis/assets/69694471/8e22d2fc-be5c-4fef-855b-2afdad4c76b0)
 ![Screenshot 2024-07-09 174956](https://github.com/KhushilBhimani2004/Bank-Loan-Analysis/assets/69694471/54704e35-b433-4478-9e7c-fd47758898fe)
-![Screenshot 2024-07-09 174858](https://github.com/KhushilBhimani2004/Bank-Loan-Analysis/assets/69694471/52078714-abad-4634-9f47-47d5f54f3a7f)
 
 
 ### Conclusion
